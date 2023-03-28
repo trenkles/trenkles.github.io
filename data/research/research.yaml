@@ -46,11 +46,13 @@ publications:
 
 
 - title: "Evidence on Job Search Models form a Survey of Unemployed Workers in Germany"
-  pdflink: "https://watermark.silverchair.com/qjab039.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsEwggK9BgkqhkiG9w0BBwagggKuMIICqgIBADCCAqMGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtRkJZeigs0Xk7XHHAgEQgIICdLmvmXX0yotTSLrbXPpBcOJGFrDHZsQA16zDVkHq2W_lsXJ-LzwPcZXpvVpknD4nXP9NW5V8RvX2UR9L8SenoSHUV0yIPYvEmNTREUH_1lDmmNCxMrCQP6xWCCHcuq02Oo3e2myBmp7L5BFXXrsG7pD-O4Saj-vPi_rgHYqhaZ6Mxg0BY7K_8D2KHuROE0kTX56UT4IFVFgjDMcwT4yCteIqLU5zUvj1oHUEigglUmHt2IAn0bpAAHf6JGCa9NeQ_IqLOrQ4QBjuFLNXLb0f0sX_xM_xx7UVM9cIl4tgEfUTeobLJpSfswI6pN4DuRvZ2P8t7wf7jbCOnLoHmgu1ye78rfK3taOFtT0JQ9_3Wye3X8S1zyYFMS9jQZKwtpZxrFX9To_u7kJkvTWu64Nul9ttoA592NjE-WEDJsJZhzdfmug6RnbT9XAjDxkTYnQHNWFMyuaXFEdEow0LDgh2HYmcTlxWMWa-PeWXpjm56MSc2KvIUNlezWN_zbvm1QSl5IERcJylJ-7bF9mVNVXOHOkdWQO0SLEEH2LPbCphLT58PsZ5nxW_vpC1m8ZjgSuaUrSJJuDT-aFZIqS_W7CZbFVSn9WQzTYVHtSsw1fWVLIx_R9bNxn0qV__3sAsexWqfA6Y3ooGZQoxilALOjbPD0LQHjCs_oMbkW4oom0qlbe8VVrBUbpY8UUjDT-jEsvKlfjNTAUTkU6JfVM_dYnTWvv-h_cmhfPvEsjD46p6cqaP4FKb6UBtinoFnK5JvU9hfRup-flKBjZ_dfT70TTwLyhsF_sbqvjLBLa_adcxp0TX-PzG6KjfpW_SK0Ln6MIWk_USM7I"
+  pdflink: "https://academic.oup.com/qje/article/137/2/1181/6413570"
   book: "The Quarterly Journal of Economics, Volume 137, May 2022, 1181–1232"
   coauthors: "Stefano DellaVigna, Jörg Heining and Johannes Schmieder"
   year: "2022"
   links:
+    - url: "https://eml.berkeley.edu/~sdellavi/wp/UISurvey_wp_Paper_2021_09_10_QJE_Format.pdf"
+      text: "Final Draft (Ungated)"	
     - url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/137/2/10.1093_qje_qjab039/1/qjab039_uisurvey_wp_appendix_2021_08_30.pdf?Expires=1682945694&Signature=CdFdB43xw9xGswlSL7M2r~HVJ9ASdCE58nWdZJsexUih7AOc1LLl0lyF6NCAEqRatupJDGjSDCKl6nGUjYbZ3ChLK35X6lCmG3pFPUJbKp-TOu6Rp69NcIZ8SlEgQiokHHyrXAE1XmU8BClWdjwRDpCNQBn4QsrBWpM8s1WUtSCeM6QNC1SHUW9LT9MY9UVshWuy6~J7v1ht~Ww59ObqX28ECq-FmwG1Jq30FVYANdh1q8PmWIh8XT6Muh~7tKoX~ff6snEriGCXRCTGUfwRHXNa7VtUnf7ZT8NQVYVaamOzKz5653911pdLkoPBSopp~97yKrg2OBqtm55DvZqzvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
       text: "Web Appendix"
     - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PRHODV"
