@@ -1,13 +1,13 @@
 relativeURLs = true
 googleAnalytics = "UA-159072578-1"
-title = "Stefanie Stantcheva"
+title = "Simon Trenkle"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [author]
-name = "Stefanie Stantcheva"
+name = "Simon Trenkle"
 
 [markup] # needed to add html in .md
   [markup.goldmark]
@@ -15,8 +15,7 @@ name = "Stefanie Stantcheva"
       unsafe = true
 
 [params]
-title = "Nathaniel Ropes Professor of Political Economy,"
-institution = "Harvard University"
-logo = "Stefanie_Stantcheva_headshot_signed_fil-3.jpg"
-Twitter = "S_Stantcheva"
-Email = "sstantcheva@fas.harvard.edu"
+title = ""
+institution = "Institute of Labor Economics (IZA) and IAB"
+logo = "TrenkleS_cut3.jpg"
+Email = "trenkle@iza.org"

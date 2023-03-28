@@ -29,19 +29,19 @@
   margin: 0; }
 
 .highlight .cm {
-  color: #999988;
+  color: #008080;
   font-style: italic; }
 
 .highlight .cp {
-  color: #999999;
+  color: #008080;
   font-weight: bold; }
 
 .highlight .c1 {
-  color: #999988;
+  color: #008080;
   font-style: italic; }
 
 .highlight .cs {
-  color: #999999;
+  color: #008080;
   font-weight: bold;
   font-style: italic; }
 
@@ -51,7 +51,7 @@
 
 .highlight .err {
   color: #a61717;
-  background-color: #e3d2d2; }
+  background-color: #008080; }
 
 .highlight .gd {
   color: #000000;
@@ -360,7 +360,7 @@ img {
 header {
   float: left;
   position: fixed;
-  background: #86608E;
+  background: #356EA3;
   top: 0px;
   left: 0px;
   bottom: 0px;
