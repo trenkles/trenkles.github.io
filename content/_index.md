@@ -4,7 +4,6 @@ title = "Homepage"
 
 ## Hello!
 
- My colleagues told me to get a website, so here we go: 
 
 
 

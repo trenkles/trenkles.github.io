@@ -15,7 +15,7 @@ name = "Simon Trenkle"
       unsafe = true
 
 [params]
-title = ""
-institution = "Institute of Labor Economics (IZA) and IAB"
+title = "Institute of Labor Economics (IZA), IAB"
+institution = ""
 logo = "TrenkleS_cut3.jpg"
 Email = "trenkle@iza.org"
