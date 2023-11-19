@@ -6,7 +6,7 @@ google-site-verification = "google41b05686190f0b06.html"
 ## Hello!
 
 
-I am a Labor Economist and [my research](https://trenkles.github.io/research/) focuses on how Labor Market Polices- and Institutions operate in a frictional labor market and how these affect worker outcomes and inequality. I also work on how workers are affected by job-loss, and search for a new job during unemployment.
+I am a Labor Economist and [my research](https://trenkles.github.io/research/) focuses on how Labor Market Policies- and Institutions operate in a frictional labor market and how these affect worker outcomes and inequality. I also work on how workers are affected by job-loss, and search for a new job during unemployment.
 
 I’m employed at the [Institute of Labor Economics (IZA)](https://www.iza.org/), and hold a part time position at the [Institute for Employment Research (IAB)](https://iab.de/en/startseite-english/). I’m a member of the CRC TR-224 between the Universities Bonn and Mannheim.
 
