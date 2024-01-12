@@ -18,7 +18,10 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 
 ++++ Spotlight ++++ 
 
--	I'll present new work on [Worker Representatives at the ASSA 2024](https://www.aeaweb.org/conference/2024/program/1422?q=eNo1izEOQEAQRe_yawWFxhmUepkwiQlrNzOLiOzdraB77-e_C8Zm4tfuDIzm-hUNKqQCZOaHLCgQWV2mTnmdF86DMekwteIk2pPSFlwnr_1CFv98pPOLxfFLu_DxvDWEPNQlUroBgygqUA) in San Antonio, w/ Julian Budde, Thomas Dohmen and Simon Jäger
+
+-	I presented new work on [Worker Representatives at the ASSA 2024](https://www.aeaweb.org/conference/2024/program/1422?q=eNo1izEOQEAQRe_yawWFxhmUepkwiQlrNzOLiOzdraB77-e_C8Zm4tfuDIzm-hUNKqQCZOaHLCgQWV2mTnmdF86DMekwteIk2pPSFlwnr_1CFv98pPOLxfFLu_DxvDWEPNQlUroBgygqUA) in San Antonio, w/ Julian Budde, Thomas Dohmen and Simon Jäger
+
+-	Forthcoming at AEA Papers \& Proceeding 2024: [The Effect of UI Caseworkers on Job Search Effort](https://trenkles.github.io/research/Caseworker_JobSearch_FinalDraft.pdf), w/ Amelie Schiprowski, Julia Schmidtke and Johannes Schmieder
 
 -	New WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
 

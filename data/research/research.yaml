@@ -29,6 +29,16 @@ worksinprogress:
 
 publications:
 
+- title: "The Effects of UI Caseworkers on Job Search Effort"
+  pdflink: "/research/Caseworker_JobSearch_FinalDraft.pdf"
+  coauthors: "Amelie Schiprowski, Julia Schmidtke and Johannes Schmieder"
+  book: "AEA Papers and Proceedings, forthcoming"
+  year: "2024" 
+  links:
+  abstract: >
+     We combine a high-frequency survey on job search effort with administrative data on caseworker interactions from the German unemployment insurance system to estimate how the dynamics of search effort respond to caseworker meetings and vacancy referrals. Meetings alone do not increase individuals’ time on search beyond a mechanical meeting-day effect; however, we find suggestive evidence that they do when combined with a formal contract on job search obligations. Referrals lead to a modest increase in effort over the three weeks following the event. Our findings leave room for caseworkers affecting employment outcomes through other channels, e.g. by altering search effectiveness.
+
+
 - title: "The Gender Gap in Earnings Losses after Job Displacement"
   pdflink: "/research/Illing_Schmieder_Trenkle_2023_finalnonformatted.pdf"
   coauthors: "Hannah Illing and Johannes Schmieder"
