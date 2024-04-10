@@ -1,11 +1,18 @@
 
 workingpapers:
 
+- title: "Worker Representatives"
+  coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
+  book: "In Progress. Draft Coming Soon"
+#  year: "2024" 
+  abstract: >
+	We study the selection of worker representatives, and their effect on worker outcomes. We focus on German works councilors - shop-floor representatives elected from the workforce. We paint a comprehensive picture of representatives’ characteristics spanning a period of more than forty years, combining rich administrative panel and representative survey data. Becoming a professional worker representative leads to substantial wage gains and increased employment security. Consistent with desirability of the role, worker representatives are positively selected in terms of earnings and person-fixed effects. They tend to have vocational training and are less likely to be untrained or have a university-level education. Representatives  show greater interest in politics and tend to lean left politically compared to the populations they represent.  Contrary to other domains of power where blue-collar workers are often underrepresented, we document that blue-collar workers have been close to proportionally represented among works councilors for the past four decades.  Drawing on a retirement IV strategy and event study designs around works council elections, we find that electing blue-collar representatives reduces involuntary layoffs. Our results support the hypothesis that blue-collar representatives place greater emphasis on job security, in line with stronger worries about layoffs and risk of unemployment faced by blue-collar workers.
+
 - title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies [submitted]"
   pdflink: "/research/When_Institutions_Interact.pdf"
   coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"
   book: "Manuscript"
-  year: "2023"	 
+  year: "2024"	 
   abstract: >
      Parameters estimated using reduced form techniques, such as the non-employment effects of unemployment insurance (UI) extensions, are shaped by other institutions. If this dependence is quantitatively important, it raises challenges for policymakers attempting to use prior estimates in new institutional environments. This paper shows empirically that the nonemployment effects of UI for older workers depend in a first-order way on the structure of retirement policies. Using German social security data, we first present reduced form evidence of these interactions, documenting large bunching in UI inflows at precisely the age that allows workers to claim their pension right after UI expiration. This reduced form evidence is then used to estimate a dynamic model that endogenizes unemployment and retirement transitions. We use our model to directly show that the non-employment effects of UI extensions vary meaningfully under different, historically observed, retirement policies. Accounting for interactions across UI and non-UI institutions also helps explain the otherwise challenging-to-explain and distinctive rise in the unemployment rate of older German workers in the mid 90s.
 
@@ -17,14 +24,6 @@ workingpapers:
      This paper examines new facts about the Incidence of Unemployment Insurance (UI) receipt after job seperations. Using German administrative data over 30 years, I show that among likely eligible job exiters, about 27% do not receive any UI in their first year after job-loss and this share varies substantially with current labor market conditions: The UI recipiency rate increases by 4-5 percentage points for a one percentage point increase in the unemployment rate relative to the previous year. Turning to mechanisms, I investigate the role of UI take-up — rather than ineligiblity —in driving the observed pattern. Motivated by a measurement error framework and drawing on additional survey data, I argue that UI take-up behavior plays a key role in explaining the pattern of UI receipt, while characteristics of the unemployed together with potential ineligibility explain only about 1/3 of the variation with labor market conditions. Comparing the documented parameters of UI receipt with counterfactual scenarios of take-up behavior highlights the importance of take-up in influencing the de-facto generosity of UI.
 
 
-worksinprogress:
-
-- title: "Worker Representatives"
-  coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
-  book: "In Progress. Draft Coming Soon"
-#  year: "2023" 
-  abstract: >
-     We study the selection of worker representatives and how representation affects worker outcomes. We focus on German works councilors—shop-floor representatives elected from the workforce. We painta comprehensive picture of representatives’ characteristics spanning a period of more than forty years,combining rich administrative panel and representative survey data. Contrary to other domains of powerwhere blue-collar workers are often underrepresented, we document that blue-collar workers have been close to proportionally represented among works councilors for the past four decades with a shrinking representation gap over time. Worker representatives are positively selected in terms of earnings and person-fixed effects. They tend to have more extroverted, more open, and less neurotic personalities, show greater interest in politics, and lean left politically, compared to the populations they represent. Drawing on event study designs around scheduled works council elections, as well as an instrumental varibles strategy building on representatives retiring, we study the effects of blue-collar representation on worker outcomes. We find that electing blue-collar representatives protects workers from involuntary layoffs and mildly compresses wages. Our results support the hypothesis that blue-collar representatives place greater emphasis on job security, in line with higher worries about layoffs and risk of unemployment faced by blue-collar workers.
 
 
 publications:

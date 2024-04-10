@@ -18,11 +18,10 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 
 ++++ Spotlight ++++ 
 
+-	Updated WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
 
--	I presented new work on [Worker Representatives at the ASSA 2024](https://www.aeaweb.org/conference/2024/program/1422?q=eNo1izEOQEAQRe_yawWFxhmUepkwiQlrNzOLiOzdraB77-e_C8Zm4tfuDIzm-hUNKqQCZOaHLCgQWV2mTnmdF86DMekwteIk2pPSFlwnr_1CFv98pPOLxfFLu_DxvDWEPNQlUroBgygqUA) in San Antonio, w/ Julian Budde, Thomas Dohmen and Simon Jäger
+-	Recently Accepted at the Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvae019/7628307), w/ Hannah Illing and Johannes Schmieder
 
 -	Forthcoming at AEA Papers \& Proceeding 2024: [The Effect of UI Caseworkers on Job Search Effort](https://trenkles.github.io/research/Caseworker_JobSearch_FinalDraft.pdf), w/ Amelie Schiprowski, Julia Schmidtke and Johannes Schmieder
 
--	New WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
 
--	Recently Accepted at the Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://trenkles.github.io/research/Illing_Schmieder_Trenkle_2023_finalnonformatted.pdf), w/ Hannah Illing and Johannes Schmieder
