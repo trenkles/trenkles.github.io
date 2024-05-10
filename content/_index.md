@@ -18,6 +18,8 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 
 ++++ Spotlight ++++ 
 
+ -	Forthcoming at the Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
+
 -	Updated WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
 
 -	Recently Accepted at the Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvae019/7628307), w/ Hannah Illing and Johannes Schmieder

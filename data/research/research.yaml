@@ -24,9 +24,23 @@ worksinprogress:
   book: "In Progress. Draft Coming Soon"
 #  year: "2024" 
   abstract: >
-     We study the selection of worker representatives, and their effect on worker outcomes. We focus on German works councilors -shop-floor representatives elected from the workforce. We paint a comprehensive picture of representatives’ characteristics spanning a period of more than forty years, combining rich administrative panel and representative survey data. Becoming a professional worker representative leads to substantial wage gains and increased employment security. Consistent with desirability of the role, worker representatives are positively selected in terms of earnings and person-fixed effects. They tend to have vocational training and are less likely to be untrained or have a university-level education. Representatives  show greater interest in politics and tend to lean left politically compared to the populations they represent.  Contrary to other domains of power where blue-collar workers are often underrepresented, we document that blue-collar workers have been close to proportionally represented among works councilors for the past four decades.  Drawing on a retirement IV strategy and event study designs around works council elections, we find that electing blue-collar representatives reduces involuntary layoffs. Our results support the hypothesis that blue-collar representatives place greater emphasis on job security, in line with stronger worries about layoffs and risk of unemployment faced by blue-collar workers.
+     We study the descriptive and substantive representation of workers through worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. Becoming a professional representative leads to substantial wage gains for the elected, concentrated among blue-collar workers. Representatives are positively selected in terms of pre-election earnings and person fixed effects. They are more likely to have undergone vocational training, show greater interest in politics, and lean left politically compared to the employees they represent; blue-collar workers are close to proportionally represented among works councilors. Drawing on a retirement-IV strategy and event-study designs around council elections, we find that blue-collar representatives reduce involuntary separations, consistent with blue-collar workers placing stronger emphasis on job security.
+
 
 publications:
+
+- title: "The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand"
+  pdflink: "https://www.journals.uchicago.edu/doi/abs/10.1086/723831"
+  book: "Journal of Labor Economics"
+  coauthors: "Matthew Gudgeon"
+  year: "2024"
+  links:
+    - url: "/research/Gudgeon_Trenkle_2024.pdf"
+      text: "Final Draft (Ungated)"
+    - url: "https://docs.iza.org/dp13931.pdf"
+      text: "Earlier IZA Discussion Paper"
+  abstract: >
+    This paper studies the speed at which workers’ pre-tax earnings respond to tax changes along the intensive margin. We do so in the context of Germany, where a large notch in the tax schedule induces sharp bunching in the earnings distribution. We analyze earnings responses to two policy reforms that shift this notch outward and find clear evidence that frictions delay the earnings responses of over 38% of workers. We propose that heterogeneity in firm labor demand plays a key role in generating the observed differences in the speed of workers’ earnings responses and provide supporting evidence.
 
 - title: "The Effects of UI Caseworkers on Job Search Effort"
   pdflink: "/research/Caseworker_JobSearch_FinalDraft.pdf"
@@ -39,28 +53,18 @@ publications:
 
 
 - title: "The Gender Gap in Earnings Losses after Job Displacement"
-  pdflink: "/research/Illing_Schmieder_Trenkle_2023_finalnonformatted.pdf"
+  pdflink: "https://doi.org/10.1093/jeea/jvae019"
   coauthors: "Hannah Illing and Johannes Schmieder"
   book: "Journal of the European Economic Association, Accepted"
   year: "forthcoming" 
   links:
     - url: "/research/Appendix_Illing_Schmieder_Trenkle_2023.pdf"
       text: "Web Appendix"
+    - url: "https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_247_2023.pdf"
+      text: "Earlier Discussion Paper"
+
   abstract: >
      We compare men and women who are displaced from similar jobs by applying an event study design combined with propensity score matching and reweighting to administrative data from Germany. After a mass layoff, women’s earnings losses are about 35% higher than men’s, with the gap persisting five years after displacement. This is partly explained by women taking up more part-time employment, but even women’s full-time wage losses are almost 50% higher than men’s. Parenthood magnifies the gender gap sharply. Finally, displaced women spend less time on job search and apply for lower-paid jobs, highlighting the importance of labor supply decisions.
-
-- title: "The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand"
-  pdflink: "https://www.journals.uchicago.edu/doi/abs/10.1086/723831"
-  book: "Journal of Labor Economics, Accepted"
-  coauthors: "Matthew Gudgeon"
-  year: "forthcoming"
-  links:
-    - url: "https://drive.google.com/file/d/0B-P7fWhCsRdLaXZuZWlsUnpCeE0/view?resourcekey=0-vdZlGFJy3gy-2SQWA1QYbg"
-      text: "Final Draft (Ungated)"
-    - url: "https://docs.iza.org/dp13931.pdf"
-      text: "Earlier IZA Discussion Paper"
-  abstract: >
-    This paper studies the speed at which workers’ pre-tax earnings respond to tax changes along the intensive margin. We do so in the context of Germany, where a large notch in the tax schedule induces sharp bunching in the earnings distribution. We analyze earnings responses to two policy reforms that shift this notch outward and find clear evidence that frictions delay the earnings responses of over 38% of workers. We propose that heterogeneity in firm labor demand plays a key role in generating the observed differences in the speed of workers’ earnings responses and provide supporting evidence.
 
 
 - title: "Evidence on Job Search Models form a Survey of Unemployed Workers in Germany"
