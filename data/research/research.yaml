@@ -1,6 +1,15 @@
 
 workingpapers:
 
+- title: "Worker Representatives [NEW!]"
+  pdflink: "/research/BDJT_2024.pdf"
+  coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
+  book: "In Progress. Draft Coming Soon"
+#  year: "2024" 
+  abstract: >
+     We study the descriptive and substantive representation of workers through worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. Becoming a professional representative leads to substantial wage gains for the elected, concentrated among blue-collar workers. Representatives are positively selected in terms of pre-election earnings and person fixed effects. They are more likely to have undergone vocational training, show greater interest in politics, and lean left politically compared to the employees they represent; blue-collar workers are close to proportionally represented among works councilors. Drawing on a retirement-IV strategy and event-study designs around council elections, we find that blue-collar representatives reduce involuntary separations, consistent with blue-collar workers placing stronger emphasis on job security.
+
+
 - title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies [submitted]"
   pdflink: "/research/When_Institutions_Interact.pdf"
   coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"

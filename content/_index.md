@@ -18,7 +18,10 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 
 ++++ Spotlight ++++ 
 
- -	Forthcoming at the Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
+
+-	NEW!: [Worker Representatives](https://trenkles.github.io/research/BDJT_2024.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
+
+-	Forthcoming at the Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
 
 -	Updated WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
 
