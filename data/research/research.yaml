@@ -51,12 +51,16 @@ publications:
   abstract: >
     This paper studies the speed at which workers’ pre-tax earnings respond to tax changes along the intensive margin. We do so in the context of Germany, where a large notch in the tax schedule induces sharp bunching in the earnings distribution. We analyze earnings responses to two policy reforms that shift this notch outward and find clear evidence that frictions delay the earnings responses of over 38% of workers. We propose that heterogeneity in firm labor demand plays a key role in generating the observed differences in the speed of workers’ earnings responses and provide supporting evidence.
 
-- title: "The Effects of UI Caseworkers on Job Search Effort"
-  pdflink: "/research/Caseworker_JobSearch_FinalDraft.pdf"
+- title: "The Effects of Unemployment Insurance Caseworkers on Job Search Effort"
+  pdflink: "https://www.aeaweb.org/articles?id=10.1257/pandp.20241091"
   coauthors: "Amelie Schiprowski, Julia Schmidtke and Johannes Schmieder"
-  book: "AEA Papers and Proceedings, forthcoming"
+  book: "AEA Papers and Proceedings, Volume 114, May 2024, 567-571"
   year: "2024" 
   links:
+  links:
+    - url: "/research/Caseworker_JobSearch_FinalDraft.pdf"
+      text: "Ungated Version"
+
   abstract: >
      We combine a high-frequency survey on job search effort with administrative data on caseworker interactions from the German unemployment insurance system to estimate how the dynamics of search effort respond to caseworker meetings and vacancy referrals. Meetings alone do not increase individuals’ time on search beyond a mechanical meeting-day effect; however, we find suggestive evidence that they do when combined with a formal contract on job search obligations. Referrals lead to a modest increase in effort over the three weeks following the event. Our findings leave room for caseworkers affecting employment outcomes through other channels, e.g. by altering search effectiveness.
 
@@ -64,8 +68,8 @@ publications:
 - title: "The Gender Gap in Earnings Losses after Job Displacement"
   pdflink: "https://doi.org/10.1093/jeea/jvae019"
   coauthors: "Hannah Illing and Johannes Schmieder"
-  book: "Journal of the European Economic Association, Accepted"
-  year: "forthcoming" 
+  book: "Journal of the European Economic Association"
+  year: "2024" 
   links:
     - url: "/research/Appendix_Illing_Schmieder_Trenkle_2023.pdf"
       text: "Web Appendix"
