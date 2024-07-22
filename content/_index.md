@@ -19,14 +19,13 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 ++++ Spotlight ++++ 
 
 
--	NEW!: [Worker Representatives](https://trenkles.github.io/research/BDJT_2024.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
+-	NEW PAPER! [Worker Representatives](https://trenkles.github.io/research/worker_representatives_bdjt_2024.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
--	Forthcoming at the Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
+-	R&R at AMERICAN ECONOMIC JOURNAL: POLICY [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
--	Updated WP: [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye
+-	Just Published in Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
 
 -	Recently Accepted at the Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvae019/7628307), w/ Hannah Illing and Johannes Schmieder
 
--	Forthcoming at AEA Papers \& Proceeding 2024: [The Effect of UI Caseworkers on Job Search Effort](https://trenkles.github.io/research/Caseworker_JobSearch_FinalDraft.pdf), w/ Amelie Schiprowski, Julia Schmidtke and Johannes Schmieder
 
 
