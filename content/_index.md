@@ -11,7 +11,7 @@ I am a Labor Economist. In [my research](https://trenkles.github.io/research/) I
 I’m employed at the [Institute of Labor Economics (IZA)](https://www.iza.org/), and hold a part time position at the [Institute for Employment Research (IAB)](https://iab.de/en/startseite-english/). I’m a member of the CRC TR-224 between the Universities Bonn and Mannheim.
 
 
-Here is [my CV](https://legacy.iza.org/en/webcontent/personnel/vitae/24066_cv.pdf)! 
+Here is [my CV](https://www.iza.org/wc/cvs/cv_Trenkle.pdf)! 
 
 Please get in touch if you would like to talk about your or my research! [trenkle@iza.org](mailto:trenkle@iza.org)
 
