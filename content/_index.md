@@ -21,7 +21,7 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 
 -	NEW PAPER! [Worker Representatives](https://trenkles.github.io/research/worker_representatives_bdjt_2024.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
--	R&R at AMERICAN ECONOMIC JOURNAL: POLICY [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
+-	R&R at AMERICAN ECONOMIC JOURNAL: ECONOMIC POLICY [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
 -	Just Published in Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://www.journals.uchicago.edu/doi/abs/10.1086/723831), w/ Matt Gudgeon
 
