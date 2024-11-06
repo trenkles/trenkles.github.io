@@ -38,7 +38,7 @@ workingpapers:
 - title: "Career Blocker"
   coauthors: "Gökay Demir"
   book: "In Progress."
-  year: "-" 
+  year: "2024" 
   abstract: >
 	Internal promotions are an important source of wage growth, especially for workers who are initially trained in the firm --- often blue-collar workers with no college degree. What happens to these workers when internal promotions, especially to top positions, become more difficult? First, we document a decline in the probability of being hired internally into top positions for initial apprentices over a long period of time in Germany using administrative employer-employee data. In contrast to standard wage-ladder models, in which a decline in internal promotion prospects is offset by an increase in an individual's prospects of being hired externally, we show a large and increasing role of firm components in external vs. internal hiring. While for some firms a high proportion of individuals are promoted internally \emph{and} externally, an increasing number of firms offer neither internal nor external promotion prospects. We use a difference-in-differences event study approach to understand the impact of a shift in a firm's hiring policy from internal to external hiring for top positions on workers in positions below the top. We find that such a shift is associated with a decrease in the probability of workers reaching the top position and an increase in the probability of workers leaving the firm. In ongoing work, we aim to causally identify these effects and relate our causal estimates to recent trends in the German wage structure. 
 
