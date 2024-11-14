@@ -58,13 +58,12 @@ publications:
   book: "Journal of the European Economic Association, Volume 22, No. 5."
   year: "2024" 
   links:
-    - url: "/research/GudgeonTrenkle_2024.pdf"
+    - url: "/research/JEEA_final.pdf"
       text: "Final Draft (Ungated)"
     - url: "/research/Appendix_Illing_Schmieder_Trenkle_2023.pdf"
       text: "Web Appendix"
     - url: "https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_247_2023.pdf"
       text: "Earlier Discussion Paper"
-
   abstract: >
      We compare men and women who are displaced from similar jobs by applying an event study design combined with propensity score matching and reweighting to administrative data from Germany. After a mass layoff, women’s earnings losses are about 35% higher than men’s, with the gap persisting five years after displacement. This is partly explained by women taking up more part-time employment, but even women’s full-time wage losses are almost 50% higher than men’s. Parenthood magnifies the gender gap sharply. Finally, displaced women spend less time on job search and apply for lower-paid jobs, highlighting the importance of labor supply decisions.
 
@@ -75,10 +74,8 @@ publications:
   book: "AEA Papers and Proceedings, Volume 114, May 2024, 567-571"
   year: "2024" 
   links:
-  links:
     - url: "/research/Caseworker_JobSearch_FinalDraft.pdf"
       text: "Final Draft (Ungated)"
-
   abstract: >
      We combine a high-frequency survey on job search effort with administrative data on caseworker interactions from the German unemployment insurance system to estimate how the dynamics of search effort respond to caseworker meetings and vacancy referrals. Meetings alone do not increase individuals’ time on search beyond a mechanical meeting-day effect; however, we find suggestive evidence that they do when combined with a formal contract on job search obligations. Referrals lead to a modest increase in effort over the three weeks following the event. Our findings leave room for caseworkers affecting employment outcomes through other channels, e.g. by altering search effectiveness.
 
@@ -116,8 +113,8 @@ publications:
   coauthors: "Johannes Schmieder"
   year: "2020"
   links:
-  - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers.pdf"
-      text: "Final Draft (Ungated)"
+    - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers.pdf"
+      text: "Final Draft (Ungated)"	
     - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers_Appendix.pdf"
       text: "Web Appendix"
   abstract: >
