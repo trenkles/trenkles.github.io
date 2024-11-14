@@ -53,11 +53,13 @@ publications:
 
 
 - title: "The Gender Gap in Earnings Losses after Job Displacement"
-  pdflink: "https://doi.org/10.1093/jeea/jvae019"
+  pdflink: "https://academic.oup.com/jeea/article/22/5/2108/7628307"
   coauthors: "Hannah Illing and Johannes Schmieder"
   book: "Journal of the European Economic Association, Volume 22, No. 5."
   year: "2024" 
   links:
+    - url: "/research/GudgeonTrenkle_2024.pdf"
+      text: "Final Draft (Ungated)"
     - url: "/research/Appendix_Illing_Schmieder_Trenkle_2023.pdf"
       text: "Web Appendix"
     - url: "https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_247_2023.pdf"
@@ -75,7 +77,7 @@ publications:
   links:
   links:
     - url: "/research/Caseworker_JobSearch_FinalDraft.pdf"
-      text: "Ungated Version"
+      text: "Final Draft (Ungated)"
 
   abstract: >
      We combine a high-frequency survey on job search effort with administrative data on caseworker interactions from the German unemployment insurance system to estimate how the dynamics of search effort respond to caseworker meetings and vacancy referrals. Meetings alone do not increase individuals’ time on search beyond a mechanical meeting-day effect; however, we find suggestive evidence that they do when combined with a formal contract on job search obligations. Referrals lead to a modest increase in effort over the three weeks following the event. Our findings leave room for caseworkers affecting employment outcomes through other channels, e.g. by altering search effectiveness.
@@ -87,9 +89,9 @@ publications:
   coauthors: "Stefano DellaVigna, Jörg Heining and Johannes Schmieder"
   year: "2022"
   links:
-    - url: "https://eml.berkeley.edu/~sdellavi/wp/UISurvey_wp_Paper_2021_09_10_QJE_Format.pdf"
+    - url: "research/UISurvey_wp_Paper_2021_09_10_QJE_Format.pdf"
       text: "Final Draft (Ungated)"	
-    - url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/137/2/10.1093_qje_qjab039/1/qjab039_uisurvey_wp_appendix_2021_08_30.pdf?Expires=1682945694&Signature=CdFdB43xw9xGswlSL7M2r~HVJ9ASdCE58nWdZJsexUih7AOc1LLl0lyF6NCAEqRatupJDGjSDCKl6nGUjYbZ3ChLK35X6lCmG3pFPUJbKp-TOu6Rp69NcIZ8SlEgQiokHHyrXAE1XmU8BClWdjwRDpCNQBn4QsrBWpM8s1WUtSCeM6QNC1SHUW9LT9MY9UVshWuy6~J7v1ht~Ww59ObqX28ECq-FmwG1Jq30FVYANdh1q8PmWIh8XT6Muh~7tKoX~ff6snEriGCXRCTGUfwRHXNa7VtUnf7ZT8NQVYVaamOzKz5653911pdLkoPBSopp~97yKrg2OBqtm55DvZqzvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+    - url: "research/UISurvey_wp_Appendix_2021_07_14.pdf"
       text: "Web Appendix"
     - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PRHODV"
       text: "Replication Code"
@@ -102,19 +104,21 @@ publications:
   coauthors: "Maria Balgova, Christian Zimpelmann and Nico Pestel"
   year: "2022"
   links:
-    - url: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/qje/137/2/10.1093_qje_qjab039/1/qjab039_uisurvey_wp_appendix_2021_08_30.pdf?Expires=1682945694&Signature=CdFdB43xw9xGswlSL7M2r~HVJ9ASdCE58nWdZJsexUih7AOc1LLl0lyF6NCAEqRatupJDGjSDCKl6nGUjYbZ3ChLK35X6lCmG3pFPUJbKp-TOu6Rp69NcIZ8SlEgQiokHHyrXAE1XmU8BClWdjwRDpCNQBn4QsrBWpM8s1WUtSCeM6QNC1SHUW9LT9MY9UVshWuy6~J7v1ht~Ww59ObqX28ECq-FmwG1Jq30FVYANdh1q8PmWIh8XT6Muh~7tKoX~ff6snEriGCXRCTGUfwRHXNa7VtUnf7ZT8NQVYVaamOzKz5653911pdLkoPBSopp~97yKrg2OBqtm55DvZqzvQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
-      text: "Web Appendix"	
+    - url: "/research/job_search_liss_paper.pdf"
+      text: "Ungated Version"	
   abstract: >
    This paper studies job search behavior in the midst of a pandemic recession. We use longrunning panel data from the Netherlands (LISS) and complement the core survey with our own COVID-specific module, conducted in June 2020, surveying job search effort of employed as well as unemployed respondents. We estimate an empirical model of job search over the business cycle over the period 2008-2019 to explore the gap between predicted and actual job search behavior in 2020. We find that job search during the pandemic recession differs strongly from previous downturns. The unemployed search significantly less than what we would normally observe during a recession of this size, while the employed search mildly more. Expectations about the duration of the pandemic seem to play a key role in explaining job search effort for the unemployed in 2020. Furthermore, employed subjects affected by changes in employment status due to COVID-19 are more likely to search for a job. Conversely, beliefs about infection risk do not seem to be related to job search in a systematic way. 
 
 
 - title: "Disincentive Effects of Unemployment Benefits and the Role of Caseworkers"
-  pdflink: "https://drive.google.com/file/d/12e0vSBAGgIIBvxZzvFlXAn9xrJdV4u1w/view?pli=1"
+  pdflink: "https://doi.org/10.1016/j.jpubeco.2019.104096"
   book: "Journal of Public Economics, 2020, Volume 182"
   coauthors: "Johannes Schmieder"
   year: "2020"
   links:
-    - url: "https://drive.google.com/file/d/19eusZGwfAH95tcnYyJKTuXjRRvNqts-i/view"
+  - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers.pdf"
+      text: "Final Draft (Ungated)"
+    - url: "SchmiederTrenkle2020_JPubE_Caseworkers_Appendix.pdf"
       text: "Web Appendix"
   abstract: >
    A large literature has documented that the unemployment duration of unemployment insurance (UI) recipient increases with the generosity of the UI system. This has been interpreted as the disincentive effect of UI benefits, however, unemployed workers typically also have caseworkers assigned who are monitoring and assisting the job search efforts. These caseworkers may respond to differences in UI eligibility by shifting resources (financial or time) between unemployed individuals in order to counteract the moral hazard effect of UI benefits or in order to focus resources to where they have the largest effect. This suggests that the typical estimates of the disincentive effects of UI may be biased in studies that compare workers within the same UI agency. We estimate whether caseworkers respond to the generosity of UI using a regression discontinuity (RD) design in Germany, where potential UI durations vary with age. We show that across a wide variety of measures, such as meetings, sanctions, and training programs UI caseworkers do not treat unemployed with different eligibility differently. At best we find a very small effect that workers with shorter eligibility close to the exhaustion point are more likely to be assigned to training programs that prolong their UI eligibility. The typical RD estimates of the UI disincentive effects thus seem to be valid estimates.
