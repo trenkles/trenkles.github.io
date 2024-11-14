@@ -89,9 +89,9 @@ publications:
   coauthors: "Stefano DellaVigna, Jörg Heining and Johannes Schmieder"
   year: "2022"
   links:
-    - url: "research/UISurvey_wp_Paper_2021_09_10_QJE_Format.pdf"
+    - url: "/research/UISurvey_wp_Paper_2021_09_10_QJE_Format.pdf"
       text: "Final Draft (Ungated)"	
-    - url: "research/UISurvey_wp_Appendix_2021_07_14.pdf"
+    - url: "/research/UISurvey_wp_Appendix_2021_07_14.pdf"
       text: "Web Appendix"
     - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PRHODV"
       text: "Replication Code"
@@ -118,7 +118,7 @@ publications:
   links:
   - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers.pdf"
       text: "Final Draft (Ungated)"
-    - url: "SchmiederTrenkle2020_JPubE_Caseworkers_Appendix.pdf"
+    - url: "/research/SchmiederTrenkle2020_JPubE_Caseworkers_Appendix.pdf"
       text: "Web Appendix"
   abstract: >
    A large literature has documented that the unemployment duration of unemployment insurance (UI) recipient increases with the generosity of the UI system. This has been interpreted as the disincentive effect of UI benefits, however, unemployed workers typically also have caseworkers assigned who are monitoring and assisting the job search efforts. These caseworkers may respond to differences in UI eligibility by shifting resources (financial or time) between unemployed individuals in order to counteract the moral hazard effect of UI benefits or in order to focus resources to where they have the largest effect. This suggests that the typical estimates of the disincentive effects of UI may be biased in studies that compare workers within the same UI agency. We estimate whether caseworkers respond to the generosity of UI using a regression discontinuity (RD) design in Germany, where potential UI durations vary with age. We show that across a wide variety of measures, such as meetings, sanctions, and training programs UI caseworkers do not treat unemployed with different eligibility differently. At best we find a very small effect that workers with shorter eligibility close to the exhaustion point are more likely to be assigned to training programs that prolong their UI eligibility. The typical RD estimates of the UI disincentive effects thus seem to be valid estimates.
