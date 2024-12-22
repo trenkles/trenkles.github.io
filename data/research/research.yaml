@@ -2,15 +2,15 @@
 workingpapers:
 
 - title: "Worker Representatives [submitted]"
-  pdflink: "/research/worker_representatives_bdjt_2024.pdf"
+  pdflink: "/research/representation_bdjt.pdf"
   coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
   book: "Manuscript"
   year: "2024" 
   abstract: >
-     We study the descriptive and substantive representation of workers through worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. Becoming a professional representative leads to substantial wage gains for the elected, concentrated among blue-collar workers. Representatives are positively selected in terms of pre-election earnings and person fixed effects. They are more likely to have undergone vocational training, show greater interest in politics, and lean left politically compared to the employees they represent; blue-collar workers are close to proportionally represented among works councilors. Drawing on a retirement-IV strategy and event-study designs around council elections, we find that blue-collar representatives reduce involuntary separations, consistent with blue-collar workers placing stronger emphasis on job security.
+     We study the representation of workers through professional worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. We examine differences in the effects of blue- and white-collar representatives, motivated by the observation that blue- and white-collar workers exhibit different preferences, e.g., concerning job security. Using retirement-IV and event-study designs, we find that electing blue-collar representatives significantly reduces involuntary separations, consistent with their stronger emphasis on job security compared to their white-collar coun- terparts, and has no effect on the wages of the represented. We further show that becoming a professional representative leads to substantial wage gains for blue-collar workers. Both blue- and white-collar representatives are positively selected in terms of pre-election earnings and person fixed effects. In terms of descriptive representation, we document that blue-collar workers are close to proportionally represented among works council representatives, in contrast to representation of blue-collar workers in other domains.
 
 
-- title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies [submitted]"
+- title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies"
   pdflink: "/research/When_Institutions_Interact.pdf"
   coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"
   book: "R&R at American Economic Journal: Economic Policy"

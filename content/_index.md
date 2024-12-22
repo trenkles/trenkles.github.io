@@ -19,13 +19,13 @@ Please get in touch if you would like to talk about your or my research! [trenkl
 ++++ Spotlight ++++ 
 
 
--	NEW PAPER! [Worker Representatives](https://trenkles.github.io/research/worker_representatives_bdjt_2024.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
+-	NEW VERSION! [Worker Representatives](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
 -	R&R at AMERICAN ECONOMIC JOURNAL: ECONOMIC POLICY [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/When_Institutions_Interact.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
 -	Just Published in Journal of Labor Economics: [The Speed of Earnings Responses to Taxation and the Role of Firm Labor Demand](https://trenkles.github.io/research/GudgeonTrenkle_2024.pdf), w/ Matt Gudgeon
 
--	Just Published in Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://trenkles.github.io/research/Appendix_Illing_Schmieder_Trenkle_2023.pdf), w/ Hannah Illing and Johannes Schmieder
+-	Just Published in Journal of the European Economic Association (JEEA): [The Gender Gap in Earnings Losses after Job Displacement](https://trenkles.github.io/research/Illing_Schmieder_Trenkle_2023.pdf), w/ Hannah Illing and Johannes Schmieder
 
 
 
