@@ -5,7 +5,7 @@ workingpapers:
   pdflink: "/research/representation_bdjt.pdf"
   coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
   book: "Manuscript"
-  year: "2024" 
+  year: "2025" 
   abstract: >
      We study the representation of workers through professional worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. We examine differences in the effects of blue- and white-collar representatives, motivated by the observation that blue- and white-collar workers exhibit different preferences, e.g., concerning job security. Using retirement-IV and event-study designs, we find that electing blue-collar representatives significantly reduces involuntary separations, consistent with their stronger emphasis on job security compared to their white-collar coun- terparts, and has no effect on the wages of the represented. We further show that becoming a professional representative leads to substantial wage gains for blue-collar workers. Both blue- and white-collar representatives are positively selected in terms of pre-election earnings and person fixed effects. In terms of descriptive representation, we document that blue-collar workers are close to proportionally represented among works council representatives, in contrast to representation of blue-collar workers in other domains.
 
@@ -21,7 +21,7 @@ workingpapers:
 - title: "Unemployment Insurance Receipt, Take-Up and Labor Market Conditions [under revision]" 
   pdflink: "/research/takeup_draft_2023.pdf"
   book: "Manuscript"
-  year: "2023" 
+  year: "2024" 
   abstract: >
      This paper examines new facts about the incidence of unemployment insurance (UI) receipt after job seperations. Using German administrative data over 30 years, I show that among likely eligible job exiters, about 27% do not receive any UI in their first year after job-loss and this share varies substantially with current labor market conditions: The UI recipiency rate increases by 4-5 percentage points for a one percentage point increase in the unemployment rate relative to the previous year. Turning to mechanisms, I investigate the role of UI take-up — rather than ineligiblity —in driving the observed pattern. Motivated by a measurement error framework and drawing on additional survey data, I argue that UI take-up behavior plays a key role in explaining the pattern of UI receipt, while characteristics of the unemployed together with potential ineligibility explain only about 1/3 of the variation with labor market conditions. Comparing the documented parameters of UI receipt with counterfactual scenarios of take-up behavior highlights the importance of take-up in influencing the de-facto generosity of UI.
 
