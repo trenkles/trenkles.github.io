@@ -11,9 +11,9 @@ I am a Labor Economist. In [my research](https://trenkles.github.io/research/) I
 I serve as an Acting Professor of Applied Microeconomics at the University of Bonn in the Spring Semester 2025. I also hold a part time position as Senior Researcher at the [Institute for Employment Research (IAB)](https://iab.de/en/startseite-english/). I am a member of the CRC TR-224 between the Universities Bonn and Mannheim.
 
 
-Here is [my CV](https://www.iza.org/wc/cvs/cv_Trenkle.pdf)! 
+Here is [my CV](https://trenkles.github.io/research/CV_TrenkleS.pdf)! 
 
-Please get in touch if you would like to talk about your or my research! [trenkle@iza.org](mailto:trenkle@iza.org)
+Please get in touch if you would like to talk about your or my research! [simon.trenkle@iab.de](mailto:simon.trenkle@iab.de)
 
 
 ++++ Spotlight ++++ 
