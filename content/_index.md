@@ -19,10 +19,10 @@ Please get in touch if you would like to talk about your or my research! [simon.
 ++++ Spotlight ++++ 
 
 
+-	R&R at Journal of the European Economic Association! [Worker Representatives](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
 -	NEW VERSION! [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/GGSTY_2025.pdf), Revised & Resubmitted at AMERICAN ECONOMIC JOURNAL: ECONOMIC POLICY, w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
--	NEW VERSION! [Worker Representatives](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
 
 
