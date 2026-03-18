@@ -1,6 +1,14 @@
 
 workingpapers:
 
+- title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies"
+  pdflink: "/research/GGSTY_2026.pdf"
+  coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"
+  book: "Revised & Resubmitted (2nd round) at American Economic Journal: Economic Policy"
+  year: "2026"	 
+  abstract: >
+     We show that the non-employment effects of unemployment insurance (UI) for older workers depend critically on retirement policy. Using German data, we document large bunching in UI inflows at the age that allows workers to claim their pension following UI expiration. Inflows respond strongly to several UI and pension reforms. We probe the implications of these behavioral responses using a dynamic model and find that Germany’s UI and retirement policy changes had substantial effects on the unemployment rate of older workers. Furthermore, we calculate large fiscal externalities from extending UI for older workers, especially under generous retirement policies.
+
 - title: "Worker Representatives [submitted]"
   pdflink: "/research/representation_bdjt.pdf"
   coauthors: "Julian Budde, Thomas Dohmen and Simon Jäger"
@@ -8,15 +16,6 @@ workingpapers:
   year: "2025" 
   abstract: >
      We study the representation of workers through professional worker representatives, focusing on the selection of German works council representatives and their impact on worker outcomes. We examine differences in the effects of blue- and white-collar representatives, motivated by the observation that blue- and white-collar workers exhibit different preferences, e.g., concerning job security. Using retirement-IV and event-study designs, we find that electing blue-collar representatives significantly reduces involuntary separations, consistent with their stronger emphasis on job security compared to their white-collar coun- terparts, and has no effect on the wages of the represented. We further show that becoming a professional representative leads to substantial wage gains for blue-collar workers. Both blue- and white-collar representatives are positively selected in terms of pre-election earnings and person fixed effects. In terms of descriptive representation, we document that blue-collar workers are close to proportionally represented among works council representatives, in contrast to representation of blue-collar workers in other domains.
-
-
-- title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies"
-  pdflink: "/research/GGSTY_2025.pdf"
-  coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"
-  book: "Revised & Resubmitted at American Economic Journal: Economic Policy"
-  year: "2025"	 
-  abstract: >
-     We show that the non-employment effects of unemployment insurance (UI) for older workers depend critically on retirement policy. Using German data, we document large bunching in UI inflows at the age that allows workers to claim their pension following UI expiration. Inflows respond strongly to several UI and pension reforms. We probe the implications of these behavioral responses using a dynamic model and find that Germany’s UI and retirement policy changes had substantial effects on the unemployment rate of older workers. Furthermore, we calculate large fiscal externalities from extending UI for older workers, especially under generous retirement policies.
 
 - title: "Unemployment Insurance Receipt, Take-Up and Labor Market Conditions [under revision]" 
   pdflink: "/research/takeup_draft_2023.pdf"
@@ -31,10 +30,17 @@ worksinprogress:
 - title: "Career Blocker"
   coauthors: "Gökay Demir"
   book: "In Progress."
-  year: "2024" 
+  year: "2026" 
   abstract: >
      Internal promotions are an important source of wage growth, especially for workers who are initially trained in the firm - often blue-collar workers with no college degree. What happens to these workers when internal promotions, especially to top positions, become more difficult? First, we document a decline in the probability of being hired internally into top positions for initial apprentices over a long period of time in Germany using administrative employer-employee data. In contrast to standard wage-ladder models, in which a decline in internal promotion prospects is offset by an increase in an individual's prospects of being hired externally, we show a large and increasing role of firm components in external vs. internal hiring. While for some firms a high proportion of individuals are promoted internally and externally, an increasing number of firms offer neither internal nor external promotion prospects. We use a difference-in-differences event study approach to understand the impact of a shift in a firm's hiring policy from internal to external hiring for top positions on workers in positions below the top. We find that such a shift is associated with a decrease in the probability of workers reaching the top position and an increase in the probability of workers leaving the firm. In ongoing work, we aim to causally identify these effects and relate our causal estimates to recent trends in the German wage structure.
 
+- title: "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies"
+  pdflink: "/research/GGSTY_2026.pdf"
+  coauthors: "Matthew Gudgeon, Pablo Guzman, Johannes Schmieder and Han Ye"
+  book: "Revised & Resubmitted (2nd round) at American Economic Journal: Economic Policy"
+  year: "2026"	 
+  abstract: >
+     We show that the non-employment effects of unemployment insurance (UI) for older workers depend critically on retirement policy. Using German data, we document large bunching in UI inflows at the age that allows workers to claim their pension following UI expiration. Inflows respond strongly to several UI and pension reforms. We probe the implications of these behavioral responses using a dynamic model and find that Germany’s UI and retirement policy changes had substantial effects on the unemployment rate of older workers. Furthermore, we calculate large fiscal externalities from extending UI for older workers, especially under generous retirement policies.
 
 publications:
 
