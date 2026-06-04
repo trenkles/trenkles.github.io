@@ -18,7 +18,7 @@ Please get in touch if you would like to talk about your or my research! [simon.
 
 ++++ Spotlight ++++ 
 
--	NEW VERSION! [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/GGSTY_2026.pdf), Revised & Resubmitted (2nd round) at AMERICAN ECONOMIC JOURNAL: ECONOMIC POLICY, w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
+-	Conditionally Accepted at American Economic Journal: Economic Policy! [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/GGSTY_2026.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
 -	R&R at Journal of the European Economic Association! [Worker Representatives](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
 
