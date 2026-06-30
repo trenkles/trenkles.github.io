@@ -17,14 +17,11 @@ I am a Senior Researcher at the [Institute for Employment Research (IAB)](https:
 
 ---
 
-## Spotlight  
+## Spotlight
 
--<span style="color:#1a7f37;font-weight:bold">New Version!</span> [**Worker Representatives**](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger. Revised and Resubmitted, *Journal of the European Economic Association*.
+- <span style="color:#1d3557;font-weight:bold">New Version!</span> <a href="https://trenkles.github.io/research/representation_bdjt.pdf" style="font-weight:700">Worker Representatives</a>, w/ Julian Budde, Thomas Dohmen and Simon Jäger. Revised and Resubmitted, *Journal of the European Economic Association*.
 
--<span style="color:#1a7f37;font-weight:bold">Conditionally Accepted</span> at *American Economic Journal: Economic Policy*! [**When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies**](https://trenkles.github.io/research/GGSTY_2026.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
-
-
-
+- <span style="color:#1d3557;font-weight:bold">Conditionally Accepted</span> at *American Economic Journal: Economic Policy*! <a href="https://trenkles.github.io/research/GGSTY_2026.pdf" style="font-weight:700">When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies</a>, w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
 
 
