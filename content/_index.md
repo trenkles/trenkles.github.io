@@ -11,16 +11,18 @@ I am a Labor Economist. In [my research](https://trenkles.github.io/research/) I
 I am a Senior Researcher at the [Institute for Employment Research (IAB)](https://iab.de/en/home-2/).
 
 
-Here is [my CV](https://trenkles.github.io/research/CV_TrenkleS.pdf)! 
+📄 Here is [my CV](https://trenkles.github.io/research/CV_TrenkleS.pdf)! 
 
-Please get in touch if you would like to talk about your or my research! [simon.trenkle@iab.de](mailto:simon.trenkle@iab.de)
+✉️ Please get in touch if you would like to talk about your or my research! [simon.trenkle@iab.de](mailto:simon.trenkle@iab.de)
 
+---
 
-++++ Spotlight ++++ 
+## Spotlight  
 
--	Conditionally Accepted at American Economic Journal: Economic Policy! [When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies](https://trenkles.github.io/research/GGSTY_2026.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
+-<span style="color:#1a7f37;font-weight:bold">New Version!</span> [**Worker Representatives**](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger. Revised and Resubmitted, *Journal of the European Economic Association*.
 
--	R&R at Journal of the European Economic Association! [Worker Representatives](https://trenkles.github.io/research/representation_bdjt.pdf), w/ Julian Budde, Thomas Dohmen and Simon Jäger
+-<span style="color:#1a7f37;font-weight:bold">Conditionally Accepted</span> at *American Economic Journal: Economic Policy*! [**When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies**](https://trenkles.github.io/research/GGSTY_2026.pdf), w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
+
 
 
 
