@@ -19,7 +19,7 @@ I am a Senior Researcher at the [Institute for Employment Research (IAB)](https:
 
 ## Spotlight
 
-- <span style="color:#1d3557;font-weight:bold">New Grant</span>  Grant on Artificial Intelligence and the German Labor Market. Individual Budget approximately 500T. 
+- <span style="color:#1d3557;font-weight:bold">New Grant</span> on Artificial Intelligence and the German Labor Market. Individual Budget approximately 500T. 
 
 - <span style="color:#1d3557;font-weight:bold">Conditionally Accepted</span> at *American Economic Journal: Economic Policy*! <a href="https://trenkles.github.io/research/GGSTY_2026.pdf" style="font-weight:700">When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies</a>, w/ Matt Gudgeon, Pablo Guzman-Pinto, Johannes Schmieder and Han Ye
 
